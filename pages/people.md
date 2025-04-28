@@ -36,7 +36,7 @@ header:
   </div>
   <div class="small-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
-      Senior bioinformatician<br>
+      Director, Senior bioinformatician<br>
       <a style="font-weight:normal" href="https://kdillmcfarland.github.io/">Personal website</a><br><br>
   
       Kim Dill-McFarland founded UWISDOM in 2023 in order to grow bioinformatic resources at UW. She is working toward her Project Management Certificate at UW and received her PhD in Microbiology from another UW (U of Wisconsin-Madison). Kim is currently a Senior Bioinformatician in the School of Medicine where she manages UWISDOM as well as a group of bioinformaticians working within individual labs. She has extensive 'omics experience including epigenetics, genetics, RNA, and protein modalities. She loves creating R packages and reproducible workflows, and you will most commonly find her coding with a cat in her lap. When not working, Kim can often be found building in Minecraft or working on massive puzzles that are too large for her coffee table.
@@ -134,7 +134,7 @@ header:
   </div>
   <div class="large-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
-      Senior bioinformatician<br>
+      Senior, Senior bioinformatician<br>
       <a style="font-weight:normal" href="https://kdillmcfarland.github.io/">Personal website</a><br><br>
   
       Kim Dill-McFarland founded UWISDOM in 2023 in order to grow bioinformatic resources at UW. She is working toward her Project Management Certificate at UW and received her PhD in Microbiology from another UW (U of Wisconsin-Madison). Kim is currently a Senior Bioinformatician in the School of Medicine where she manages UWISDOM as well as a group of bioinformaticians working within individual labs. She has extensive 'omics experience including epigenetics, genetics, RNA, and protein modalities. She loves creating R packages and reproducible workflows, and you will most commonly find her coding with a cat in her lap. When not working, Kim can often be found building in Minecraft or working on massive puzzles that are too large for her coffee table.
