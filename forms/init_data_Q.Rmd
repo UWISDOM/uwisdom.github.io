@@ -1,0 +1,65 @@
+---
+title: "Initial data questionnaire"
+author: "Altman group, BRI"
+date: "version `r format(Sys.time(), '%B %d, %Y')`"
+output: word_document
+---
+
+## Contact information
+
+PI (name) _________________________________ (email) _________________________________
+
+Main contact (if not PI) _________________________________ _________________________________  
+
+&nbsp;
+
+## Research question
+
+1. What is/are the main research question(s) of this project?
+
+&nbsp;
+
+## Experimental design
+
+2. Briefly describe the experimental design, including data generated, variable(s) of interest, and number of samples per group (N).
+
+&nbsp;
+    
+3. What metadata are available, such as patient/donor information (age, sex, etc) or sample information (date, batch, etc)? Do you have any reason to believe any of these variables will significantly impact results and therefore, should be included in initial statistical models? 
+
+&nbsp;
+
+4. Have you completed a power analysis? If so, what data were used and how close are you to the number of samples required for this analysis? If not, how was the sample number for this project determined?
+
+&nbsp;
+
+5. If quality control results in the removal of samples such that any group of interest falls below N = 3, are you willing/able to
+    - Re-sequence samples: Y/N
+    - Obtain additional samples: Y/N
+    - Provide other means of increasing N, please specify: Y/N
+
+&nbsp;
+
+## Timeline and outputs
+
+6. What are your ideal deadlines for a) an initial report and b) a complete analysis? 
+
+&nbsp;
+
+7. Please define any specific outputs such as tables, figures, etc you would like. Unless otherwise noted, reports and figures will be provided as PDF and tables as CSV.
+
+&nbsp;
+
+8. Please indicate the level(s) of Altman group contribution you anticipate for this project.
+    - Exploratory or pilot data analysis ____
+    - Full data analysis ____
+    - Teaching others to complete analyses ____
+    - Figures, tables, or other results for publication ____
+    - Minimal writing and editing of manuscript for publication ____
+    - Substantial writing of manuscript ____
+    - Lead writing of manuscript as first and/or corresponding author(s) ____
+    - Other, please specify
+
+&nbsp;
+
+***
