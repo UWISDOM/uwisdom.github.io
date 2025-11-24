@@ -8,10 +8,6 @@ header:
     caption: View from UWISDOM offices
 ---
 
-<div style="background-color: #ffd700; color: black; padding: 12px; font-size: 1.2em; font-weight: bold; text-align: center;">
-  YOUR BANNER TEXT HERE
-</div>
-
 ## U of Washington Informatics, Systems immunology, and Data Omics in Medicine
 
 ## Our mission
